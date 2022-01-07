@@ -1,2 +1,12 @@
 # bikesharing
 Week 14 activity
+
+The purpose of this analysis is to determine whether starting a bike sharing company in Des Moines is a feasible endeavor.  They are doing this by looking at data from a bike sharing company in New York City.
+The results from NY show a high level of use for the bike sharing. Their data shows over 2.3M rides for the month of August 2019.  There are multiple indicators of use to be gleaned from the data. I have created a story on Tableau to illustrate this. (https://public.tableau.com/app/profile/sam.m6733/viz/NYCCitibikeChallenge_16415702087510/ChallengeStory?publish=yes) 
+This first story graphic gives an overall picture of user type, gender of rider and most popular days of the week.  
+Our next graphic introduces our age variable, and although it skews towards 29 and under, there are still a good number of 30-55 year olds, especially when we consider subscriber levels.  
+Our third graphic breaks down total riders based on our and day of the week.  Unsuprisingly, it appears more busy Mon-Friday, and at the start and end of "typical" work days.  This could be explained by NYC being a commuter city with many residents lacking a car.  This makes the bike their sole transport for work. 
+Graphic four breaks down the previous graphic further by isolating the data by gender.  Females make up a significantly smaller part of the customer base. There are many possibilities for this to include wardrobe restrictions, safety, and income disparity.
+Graphics five and six show similar data, both showing average trip duration across total users, graphic six breaks it down a little more by also filtering by gender.
+The last included graphic is quite meaty.  This shows bike utilization by bike ID and as you can see in the graphic, this has some great take-aways.  There is a large number of bikes with greater than 350 uses.  As you adjust the filter you can see there really needs to be better rotation of the bicycles.  Certainly a kew point to consider whn thinking of starting a similar opration here.
+This data a these graphics give a very broad idea of how things are going for NYC Citibikes.  There are still a lot of questions to be answered.  What is the turnover rate for subscribers? What are the company's injury liabilities should a rider become injured on a damaged bike.  Are there adequate bike lanes in the area we are proposing to set up operation? Is there any demand for this service?
